@@ -31,7 +31,7 @@ This project is written in C# and serves as version 2.0, inspired by the origina
 
 ---
 
-**⭐ Star this repository if you find it valuable for security education and research!**
+**⭐ Star this repository to give motivation and support will be fast release this project very soon!**
 
 ---
 
